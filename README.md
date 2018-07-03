@@ -8,7 +8,7 @@ The table containing the attributes data is shown below.
 Note: “1d12” means rolling one 12-sided die, and “2d6” means rolling 2 6-sided dice, etc.
 
 | TYPE | ATTACK | DEFENSE | ARMOR | STRENGTH POINTS |
-| --- | --- | --- | --- | --- |
+| ---: | --- | --- | --- | --- |
 | Vampire | 1d12 | 1d6\**Charm* | 1 | 18 |
 | Barbarian | 2d6 | 2d6 | 0 | 12 |
 | Blue Men | 2d10 | 3d6 | 3 | 12\**Mob* |
