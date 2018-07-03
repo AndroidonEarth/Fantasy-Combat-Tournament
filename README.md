@@ -50,6 +50,6 @@ The winner of each fight gets put at the back of their lineup, while loser goes 
 
 If a fighter won, they may have taken damage so some percentage of the damage they took is restored when they get back in line.
 
-The lineup order cannot be changed, meaning that the game cannot modify the order of the lineup except when putting winner at the back of lineup and loser at the top of the loser container.
+The lineup order cannot be changed, meaning that the game cannot modify the order of the lineup except when putting the winner at the back of lineup and the loser at the top of the loser container.
 
 The tournament finishes when one of the team does not have any more fighters to fight. When the game ends, it displays the result of the game, and allows the player choose if they want to display the contents of the loser pile.
