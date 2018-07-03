@@ -34,7 +34,7 @@ If the Vampire’s “charm” ability activates when Medusa uses “glare”, t
 
 ## Gameplay
 
-At the start of the tournament, the game will prompt the player to enter the number of fighters for both teams. After that, for each fighter, the game will ask the player to choose the type of character, and enter a name for the fighter. For example: assume the player chooses Harry Potter for player No.1’s team lineup, then the player can name the Harry Potter character “Larry Snotter” or just “Harry Potter No.1”. The game allows more than 1 of the same character for team lineups. For example, Team A can have 3 members: 2 barbarians and 1 Harry Potter. The order of the lineup is the same as the order player entered.
+At the start of the tournament, the game will prompt the player to enter the number of fighters for both teams. After that, for each fighter, the game will ask the player to choose the type of character, and enter a name for the fighter. For example: assume the player chooses Harry Potter for player No.1’s team lineup, then the player can name the Harry Potter character “Larry Snotter” or just “Harry Potter No.1”. The game allows more than 1 of the same character for team lineups. For example, Team A can have 3 members: 2 barbarians and 1 Harry Potter. The order of the lineup is the same as the order the player entered.
 
 After the player supplies the lineup of fighters in order, for Team No.1, and Team No.2, the tournament starts. In the tournament, the fighter at the head/front of each lineup will battle until one of the characters runs out of strength points.
 
