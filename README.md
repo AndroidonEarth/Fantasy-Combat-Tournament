@@ -1,5 +1,5 @@
 # Fantasy Combat Tournament
-Simulates a tournament between 2 teams of fantasy fighters.
+Simulates a tournament between 2 teams of fantasy fighters, written in C++.
 
 This game is a one-user-two-player game, so one user should be able to play and setup fighters for both teams. For simplicity, the order of fighters in each team is called a “lineup”, like a batting order in baseball or softball.
 
