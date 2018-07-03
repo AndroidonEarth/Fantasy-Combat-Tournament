@@ -21,9 +21,7 @@ The characters also have their own characteristics as well as special abilities:
 | ---: | :---: | :---: |
 | Vampire | Suave, debonair, but vicious and surprisingly resilient. | **Charm:** Vampires can charm an opponent into not attacking. For a given attack there is a 50% chance that their opponent does not actually attack them. |
 | Barbarian | Think Conan or Hercules from the movies. Big sword, big muscles, bare torso. |
-| Blue Men | They are small, 6 inch tall, but fast and tough. They are hard to hit so they can take some damage. They can also do a LOT of damage when they crawl inside enemies’ armor or clothing. | **Mob:** Blue Men are actually a swarm of small 
-individuals. For every 4 points of damage, they lose one defense die. For example, if they have a strength of 8, they would have 2d6 for 
-defense. |
+| Blue Men | They are small, 6 inch tall, but fast and tough. They are hard to hit so they can take some damage. They can also do a LOT of damage when they crawl inside enemies’ armor or clothing. | **Mob:** Blue Men are actually a swarm of small individuals. For every 4 points of damage, they lose one defense die. For example, if they have a strength of 8, they would have 2d6 for defense. |
 | Medusa | Scrawny lady with snakes for hair which helps her during combat. Just don’t look at her! | **Glare:** If a Medusa rolls a 12 when attacking then the target instantly gets turned into stone and Medusa wins! If Medusa uses Glare on Harry Potter on his first life, then Harry Potter comes back to life. |
 | Harry Potter | Harry Potter is a wizard. | **Hogwarts:** If Harry Potter's strength reaches 0 or below, he immediately recovers and his total strength becomes 20. If he were to die again, then he’s dead. |
 
