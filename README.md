@@ -21,7 +21,7 @@ The table containing the attributes data is shown below.
 
 The characters also have their own characteristics as well as special abilities:
 
-| Type | Characterstics | Special Abilities | 
+| TYPE | CHARACTERISTICS | SPECIAL ABILITIES | 
 | ---: | :---: | :---: |
 | Vampire | *Suave, debonair, but vicious and surprisingly resilient.* | **Charm:** Vampires can charm an opponent into not attacking. For a given attack there is a 50% chance that their opponent does not actually attack them. |
 | Barbarian | *Think Conan or Hercules from the movies. Big sword, big muscles, bare torso.* | *No ability* |
