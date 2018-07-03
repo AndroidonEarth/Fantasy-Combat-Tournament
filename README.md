@@ -3,7 +3,7 @@ Simulates a tournament between 2 teams of fantasy fighters.
 
 This game is a one-user-two-player game, so one user should be able to play setup fighters for both teams. For simplicity, we will call the order of fighters in each team “lineup”, like a batting order in baseball or softball.
 
-**Characters**
+## Characters
 
 This game universe contains Vampire, Barbarian, Blue Men, Medusa, and Harry Potter. Each character has attributes of **attack, defense, armor, and strength points.**
 
@@ -29,14 +29,10 @@ The characters also have their own characteristics as well as special abilities:
 | Medusa | *Scrawny lady with snakes for hair which helps her during combat. Just don’t look at her!* | **Glare:** If a Medusa rolls a 12 when attacking then the target instantly gets turned into stone and Medusa wins! If Medusa uses Glare on Harry Potter on his first life, then Harry Potter comes back to life. |
 | Harry Potter | *Harry Potter is a wizard.* | **Hogwarts:** If Harry Potter's strength reaches 0 or below, he immediately recovers and his total strength becomes 20. If he were to die again, then he’s dead. |
 
-**Note:**
+**Note:** *If Medusa uses “glare” on Harry Potter on his first life, then Harry Potter comes back to life after using “hogwarts”.
+If the Vampire’s “charm” ability activates when Medusa uses “glare”, the Vampire’s charm trumps Medusa’s glare. The sample characters are unbalanced intentionally. Some will win a lot, while others won’t.*
 
-*If Medusa uses “glare” on Harry Potter on his first life, then Harry Potter comes back to life after using “hogwarts”.
-If the Vampire’s “charm” ability activates when Medusa uses “glare”, the Vampire’s charm trumps Medusa’s glare.
-The sample characters are unbalanced intentionally. This will help 
-you in debugging your program! Some will win a lot, while others won’t.*
-
-**Gameplay:**
+## Gameplay
 
 At the start of the tournament, the game will prompt the player to enter the number of fighters for both teams. After that, for each fighter, the game will ask the player to choose the type of character, and enter a name for the fighter. For example: assume the player chooses Harry Potter for player No.1’s team lineup, then the player can name the Harry Potter character “Larry Snotter” or just “Harry Potter No.1”. The game allows more than 1 of the same character for team lineups. For example, Team A can have 3 members: 2 barbarians and 1 Harry Potter. The order of the lineup is the same as the order player entered.
 
